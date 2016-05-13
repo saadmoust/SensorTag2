@@ -1,0 +1,16 @@
+{
+	"bd_rest_api":{
+		"domain":"http://130.15.3.145",
+		"port":"82",
+		"api_prefix":"/api",
+	},
+
+	"oauth":{
+		"client_id":"liWDTDiNZzsEVSTo53KWJJLo4N97p8Iw72eBlV8I",
+		"client_key":"3CzlOPHis2tZCqfzoScyk8RhKUJ8AuiMcHbBGY7JHITD02sBGA"
+	},
+	
+	"others":{
+		"sensor_uuid":"134cfcff-247e-4911-8a0f-dd9cdd88059a",
+	}
+}
