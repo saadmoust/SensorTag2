@@ -2,7 +2,7 @@
 	"bd_rest_api":{
 		"domain":"http://130.15.3.145",
 		"port":"82",
-		"api_prefix":"/api",
+		"api_prefix":"/api"
 	},
 
 	"oauth":{
@@ -11,6 +11,6 @@
 	},
 	
 	"others":{
-		"sensor_uuid":"134cfcff-247e-4911-8a0f-dd9cdd88059a",
+		"sensor_uuid":"134cfcff-247e-4911-8a0f-dd9cdd88059a"
 	}
 }

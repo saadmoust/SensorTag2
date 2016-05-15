@@ -134,4 +134,5 @@ while True:
     print sensor_data 
     #this gets you only the value part of the sensor data
     #if you need the entir record -- update the 'get_timeseries_data' method in BuildingDepotHelper.py
+    #to just return json = result.json()
     

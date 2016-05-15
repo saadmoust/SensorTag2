@@ -11,7 +11,7 @@ from json_setting import JsonSetting
 
 class BuildingDepotHelper:
     '''Building Depot Helpe Class'''
-    def __init__(self, settingFilePath="./knockingSettings.json"):
+    def __init__(self, settingFilePath="./settings.json"):
         '''Initialize instance and load settings'''
         setting = JsonSetting(settingFilePath)
         self.bd_rest_api = setting.get('bd_rest_api')
