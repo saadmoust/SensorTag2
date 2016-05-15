@@ -118,7 +118,7 @@ while True:
                 "samples":[
                     {
                         "value":ambient_temp_celsius,
-                        "time":current_time
+                        "time":current_timestamp
                     }
                 ]
             }
