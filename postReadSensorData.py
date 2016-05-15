@@ -72,7 +72,7 @@ def convertTemperature(objT, ambT):
 bluetooth_adr = "B0:B4:48:D3:07:01"
 tool = pexpect.spawn('gatttool -b ' + bluetooth_adr + ' --interactive')
 tool.expect('\[LE\]>')
-print "Connectin..."
+print "Connecting..."
 tool.sendline('connect')
 # test for success of connect
 tool.expect('Connection successful')
